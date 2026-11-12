@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iyal\\SampleApi\\SampleApi.csproj": {}
+    "c:\\Users\\Iyal\\SampleApi\\SampleApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iyal\\SampleApi\\SampleApi.csproj": {
+    "c:\\Users\\Iyal\\SampleApi\\SampleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iyal\\SampleApi\\SampleApi.csproj",
+        "projectUniqueName": "c:\\Users\\Iyal\\SampleApi\\SampleApi.csproj",
         "projectName": "SampleApi",
-        "projectPath": "C:\\Users\\Iyal\\SampleApi\\SampleApi.csproj",
+        "projectPath": "c:\\Users\\Iyal\\SampleApi\\SampleApi.csproj",
         "packagesPath": "C:\\Users\\Iyal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iyal\\SampleApi\\obj\\",
+        "outputPath": "c:\\Users\\Iyal\\SampleApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Iyal\\NuGet.Config",
+          "c:\\Users\\Iyal\\NuGet.Config",
           "C:\\Users\\Iyal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
